@@ -1,14 +1,14 @@
 {
 
-    "Ganache_Url" : "<Ganache server URL [default:http://127.0.0.1:7545]>",
+    "Ganache_Url" : "<Ganache server URL [default:http://127.0.0.1:8545]>",
 
     "NETWORK_CHAIN_ID": 5777,
 
-    "Mongo_Db_Url": "MongoDB Server URL [default: mongodb://localhost:27017]",
+    "Mongo_Db_Url": "mongodb+srv://syeedasafiya28_db_user:test1234@cluster0.qae6jao.mongodb.net/landdb?retryWrites=true&w=majority&tls=true&tlsAllowInvalidCertificates=true",
 
     "Secret_Key": "RevenueDept$123",
 
-    "Address_Used_To_Deploy_Contract": "<Public address used to deploy the contracts to block chain>",
+    "Address_Used_To_Deploy_Contract": "(0) 0xee30c732cf0741f6128288ef326a8caae42657f8d9dbd0c4b210b95afe469360",
     
     "Admin_Password": "12345678"
 }
